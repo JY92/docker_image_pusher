@@ -1,3 +1,4 @@
 nfew/aio-dynamic-push:latest
 openjdk:22
 haroldli/xiaoya-tvbox
+dpanel/dpanel
