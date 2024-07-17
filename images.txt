@@ -1,4 +1,3 @@
-nfew/aio-dynamic-push:latest
-openjdk:22
+louislam/dockge
 haroldli/xiaoya-tvbox
-dpanel/dpanel
+qdtoday/qd
